@@ -1,5 +1,5 @@
 # btcturk-api-client_calypsojs
-Berke Bayraktar'ın yapmış olduğu, A promise based javascript client (wrapper) for BtcTurk API. Bundan tek farkı Axios'un 0.20.0 yerine 0.21.1 olmasıdır.
+Berke Bayraktar'ın yapmış olduğu, A promise based javascript client (wrapper) for BtcTurk API. Bundan tek farkı Axios'un 0.20.0 yerine 0.24.0 olmasıdır.
 
 A promise based javascript client (wrapper) for [BtcTurk API](https://github.com/BTCTrader/broker-api-docs/blob/master/README-pro.md)
 
