@@ -1,7 +1,7 @@
 {
   "name": "btcturk-api-client_calypsojs",
-  "version": "0.0.1",
-  "description": "Berke Bayraktar'ın yapmış olduğu, A promise based javascript client (wrapper) for BtcTurk API. Bundan tek farkı Axios'un 0.20.0 yerine 0.21.1 olmasıdır.",
+  "version": "0.0.2",
+  "description": "Berke Bayraktar'ın yapmış olduğu, A promise based javascript client (wrapper) for BtcTurk API. Bundan tek farkı Axios'un 0.20.0 yerine 0.24.0 olmasıdır.",
   "main": "index.js",
   "scripts": {
     "test": ""
@@ -16,6 +16,6 @@
   "author": "Aydın Candan",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": "^0.24.0"
   }
 }
